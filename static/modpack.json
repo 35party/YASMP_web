@@ -1,0 +1,67 @@
+{
+  "modPackList": [
+    {
+      "categoryName": "1.18.1",
+      "version": "1.0",
+      "lastUpdate": "20220219",
+      "downloadLink": {
+        "multimc": "https://dl.blingwang.cn/1.18.1%20YASMP%20v1.0.220219.zip",
+        "universal": ""
+      }
+    },
+    {
+      "categoryName": "1.18",
+      "version": "1.0",
+      "lastUpdate": "20211210",
+      "downloadLink": {
+        "multimc": "https://dl.blingwang.cn/1.18_Simple_Modpack_v1_multimc.zip",
+        "universal": "https://dl.blingwang.cn/1.18_Simple_Modpack_v1.zip"
+      }
+    },
+    {
+      "categoryName": "1.17.1",
+      "version": "1.1",
+      "lastUpdate": "20211024",
+      "downloadLink": {
+        "multimc": "https://dl.blingwang.cn/1.17.1_Simple_Modpack_v1.1_multimc.zip",
+        "universal": "https://dl.blingwang.cn/1.17.1_Simple_Modpack_v1.1.zip"
+      }
+    },
+    {
+      "categoryName": "1.16.5",
+      "version": "1.0",
+      "lastUpdate": "20210214",
+      "downloadLink": {
+        "multimc": "https://dl.blingwang.cn/Minecraft_1.16.5_fabric_multimc_20210214.zip",
+        "universal": "https://dl.blingwang.cn/Minecraft_1.16.5_fabric_20210214.zip"
+      }
+    },
+    {
+      "categoryName": "1.16.4",
+      "version": "1.0",
+      "lastUpdate": "20210113",
+      "downloadLink": {
+        "multimc": "https://dl.blingwang.cn/Minecraft_1.16.4_fabric_multimc_20210113.zip",
+        "universal": "https://dl.blingwang.cn/Minecraft_1.16.4_fabric_20210113.zip"
+      }
+    },
+    {
+      "categoryName": "1.15.2",
+      "version": "1.0",
+      "lastUpdate": "20200829",
+      "downloadLink": {
+        "multimc": "https://cdn.blw.moe/Fabric%201.15.2.zip",
+        "universal": ""
+      }
+    },
+    {
+      "categoryName": "1.15.1",
+      "version": "1.0",
+      "lastUpdate": "20191229",
+      "downloadLink": {
+        "multimc": "https://cdn.blw.moe/Fabric%201.15.1.zip",
+        "universal": ""
+      }
+    }
+  ]
+}
