@@ -2,6 +2,15 @@
   "modPackList": [
     {
       "categoryName": "1.18.2",
+      "version": "2.0",
+      "lastUpdate": "20221105",
+      "downloadLink": {
+        "multimc": "https://dl.blingwang.cn/1.18.2_YASMP_v2.0.221105.zip",
+        "universal": ""
+      }
+    },
+    {
+      "categoryName": "1.18.2",
       "version": "1.0",
       "lastUpdate": "20220308",
       "downloadLink": {
