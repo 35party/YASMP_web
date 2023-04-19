@@ -1,7 +1,7 @@
 <template>
   <v-row justify="center" align="center" class="pt-1">
     <v-col cols="12" sm="12" md="12">
-      <v-card>
+      <v-card class="pb-4">
         <v-card-title class="headline">
           欢迎使用 YASMP&nbsp;
           <em class="text-subtitle-2 pt-1">Yet Another Simple Mod Pack</em>
@@ -16,7 +16,9 @@
         <v-card-actions class="px-4 pb-4">
           <v-btn color="primary" nuxt to="/modpack"> 下载最新版本整合包 </v-btn>
         </v-card-actions>
+        <a href="https://vercel.com/?utm_source=35party&utm_campaign=oss" target="_blank" title="Sponsored by Vercel"><v-img src="vercel.svg" width="160" class="mx-4"></v-img></a>
       </v-card>
+      
     </v-col>
   </v-row>
 </template>
